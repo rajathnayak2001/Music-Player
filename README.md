@@ -3,7 +3,7 @@ Music player app that plays music stored in External Storage.
 
 
 Libraries used:
- dexter library for app permissions: https://github.com/Karumi/Dexter
+ dexter library for app permissions: https://github.com/Karumi/Dexter<br />
  Thread Concept to run and change music simultaneously
 
 Future Prospects
